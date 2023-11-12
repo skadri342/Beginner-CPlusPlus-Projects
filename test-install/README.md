@@ -1,0 +1,1 @@
+This is my first ever C++ program. Just learning the syntax of the language, operators, and fundamentals.
