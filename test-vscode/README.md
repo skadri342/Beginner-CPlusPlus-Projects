@@ -1,0 +1,1 @@
+This is a test file to make sure I can build and run C++ projects correctly in VS Code instead of VS IDE.

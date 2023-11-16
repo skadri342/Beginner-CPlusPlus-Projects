@@ -1,0 +1,9 @@
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/Experimental.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/test-vscode.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/Continuous.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/Nightly.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/PACKAGE.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/RUN_TESTS.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/ALL_BUILD.dir
+D:/Coding/C++/Beginner C++ Projects/test-vscode/build/CMakeFiles/ZERO_CHECK.dir
