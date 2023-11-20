@@ -1,0 +1,1 @@
+This is a very simple beginner C++ project. I made it after learning about the basic syntax of C++, how to use strings, and get user input. Learned about the data types in C++ and operators such as arithmetic, logical and relational. Learned the syntax of string concatenation and printing to the console as well.
