@@ -1,0 +1,27 @@
+# ninja log v5
+1	201	7222066689261533	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+206	292	7222066690142596	AverageOfThree.exe	dcca8aa905c7d47c
+2	260	7222068823110133	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+260	334	7222068823831533	AverageOfThree.exe	dcca8aa905c7d47c
+2	198	7222069060829221	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+198	266	7222069061491759	AverageOfThree.exe	dcca8aa905c7d47c
+2	207	7222069749081036	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+207	275	7222069749741536	AverageOfThree.exe	dcca8aa905c7d47c
+1	207	7222082707010675	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+208	279	7222082707696633	AverageOfThree.exe	dcca8aa905c7d47c
+1	204	7222085261108627	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+205	271	7222085261742746	AverageOfThree.exe	dcca8aa905c7d47c
+2	199	7222086045867981	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+200	266	7222086046506387	AverageOfThree.exe	dcca8aa905c7d47c
+2	204	7222094112038151	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+204	279	7222094112759991	AverageOfThree.exe	dcca8aa905c7d47c
+2	207	7222144369531358	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+207	280	7222144370235828	AverageOfThree.exe	dcca8aa905c7d47c
+2	207	7222146457939769	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+207	275	7222146458597166	AverageOfThree.exe	dcca8aa905c7d47c
+2	198	7222151048777413	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+198	265	7222151049416308	AverageOfThree.exe	dcca8aa905c7d47c
+2	190	7222159095445702	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+190	255	7222159096063821	AverageOfThree.exe	dcca8aa905c7d47c
+2	203	7222159927203057	CMakeFiles/AverageOfThree.dir/main.cpp.obj	9f2b603b570076f9
+203	270	7222159927848076	AverageOfThree.exe	dcca8aa905c7d47c
