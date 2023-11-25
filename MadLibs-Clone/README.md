@@ -1,0 +1,1 @@
+This is another beginner C++ project that I have made. It is a clone of the MadLibs game which is a very old and simple game. By making this game I learned about constants, variables, and user input.
