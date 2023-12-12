@@ -2,24 +2,31 @@
 using namespace std;
 
 int main() {
-    int age;
+    char grade;
 
-    cout << "Welcome to the Pub and Grille!" << endl;
-    cout << "Please enter your age" << endl;
-    cin >> age;
+    cout << "Please enter a letter grade" << endl;
+    cin >> grade;
 
-    if (age >= 21) {
-        cout << "Here, have a beer" << endl;
-    }
-    else if (age >= 16) {
-        cout << "Here, have a Coke!" << endl;
-        cout << "And, at least you can drive!" << endl;
-    }
-    else {
-        cout << "Here, have a coke!" << endl;
+    switch (grade) {
+        case 'A':
+            cout << "Great job!" << endl;
+            break;
+        case 'B':
+            cout << "Good job!" << endl;
+            break;
+        case 'C':
+            cout << "You can do better!" << endl;
+            break;
+        case 'D':
+            cout << "You are getting close to failing!" << endl;
+            break;
+        case 'F':
+            cout << "You are failing the course!" << endl;
+            break;
+        default:
+            cout << "You have entered an invalid grade. Try again" << endl;
     }
 
-    cout << "Thanks for coming to the Pub and Grille!" << endl;
 
     return 0;
 }
