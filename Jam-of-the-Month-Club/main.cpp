@@ -2,23 +2,24 @@
 using namespace std;
 
 int main() {
-    //Sequential
-    int age = 15;
-    cout << age << endl;
+    int age;
 
-    //Selection
-    if (age >= 16) {
-        cout << "You can drive!" << endl;
+    cout << "Welcome to the Pub and Grille!" << endl;
+    cout << "Please enter your age" << endl;
+    cin >> age;
+
+    if (age >= 21) {
+        cout << "Here, have a beer" << endl;
+    }
+    else if (age >= 16) {
+        cout << "Here, have a Coke!" << endl;
+        cout << "And, at least you can drive!" << endl;
     }
     else {
-        cout << "You cannot drive yet!" << endl;
+        cout << "Here, have a coke!" << endl;
     }
 
-    //Repitition
-    for (int i = 1; i <= age; i++) {
-        cout << "Happy birthday " << i << endl;
-    }
+    cout << "Thanks for coming to the Pub and Grille!" << endl;
 
     return 0;
 }
-
