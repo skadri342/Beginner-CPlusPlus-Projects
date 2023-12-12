@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Jam_of_the_Month_Club",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Jam_of_the_Month_Club::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Jam_of_the_Month_Club-Debug-eaf87a1f5910ab032262.json",
+					"name" : "Jam_of_the_Month_Club",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/C++/Beginner C++ Projects/Jam-of-the-Month-Club/cmake-build-debug",
+		"source" : "D:/Coding/C++/Beginner C++ Projects/Jam-of-the-Month-Club"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
