@@ -1,16 +1,16 @@
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 using namespace std;
 
 int main() {
-    int count = 0;
+    //generate 10 die rolls and print out each as you go along
+    srand(time(nullptr));
+    int die_roll;
 
-    while (count < 10) {
-        if (count % 2 == 1) {
-            count++;
-            continue;
-        }
-        cout << count << endl;
-        count++;
+    for (int i = 0; i < 10; i++) {
+        die_roll = rand() % 6 + 1;
+        cout << die_roll << endl;
     }
 
     return 0;
