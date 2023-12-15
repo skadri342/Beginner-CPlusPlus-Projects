@@ -2,26 +2,23 @@
 using namespace std;
 
 int main() {
-//    int count = 0;
-//
-//    while (count < 10) {                //loop continuation condition
-//        cout << count << endl;
-//        count++;
-//    }
-//
-//    cout << endl << endl;
-//
-//    //do while
-//    int count2 = 10;
-//    do {
-//        cout << count2 << endl;
-//        count2++;
-//    } while (count2 < 10);
+    // ask user for input
+    // add user input to a sum/running total
+    // when user enter's a negative number, the loop terminates and prints the total sum
+    int input;
+    int sum = 0;
 
-//    //for loop
-//    for (int i = 0; i < 10; i++) {
-//        cout << i << endl;
-//    }
+    cout << "Please enter a non-negative integer, enter a negative integer to quit" << endl;
+    cin >> input;
+
+    while (input >= 0) {
+        cout << input << endl;
+        sum += input;
+        cout << "Please enter a non-negative integer, enter a negative integer to quit" << endl;
+        cin >> input;
+    }
+
+    cout << "Sum of the values: " << sum << endl;
 
     return 0;
 }
