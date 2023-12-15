@@ -30,6 +30,28 @@ int main() {
     //  the monthly fee
     //  If they went over, then you charge them the monthly fee, plus the charge for each additional jam
     //  at their package's rate
+    char package;
+    int jams;
+
+    cout << "What package do you have? A, B, or C:" << endl;
+    cin >> package;
+
+    while (package != 'A' || package != 'a' || package != 'B' || package != 'b' || package != 'C' || package != 'c') {
+        cout << "Wrong option. Please select A, B, or C." << endl;
+        cin >> package;
+    }
+
+    cout << "How many jams have you purchased this month?" << endl;
+    cin >> jams;
+
+    if (package == 'A' || package == 'a') {
+
+    } else if (package == 'B' || package == 'b') {
+
+    } else {
+
+    }
+
 
     return 0;
 }
