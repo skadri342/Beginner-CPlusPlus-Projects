@@ -2,31 +2,25 @@
 using namespace std;
 
 int main() {
-    char grade;
+    //Prompt user for age AND gender
+    //age is int, gender is character
+    //get of f or F and are 60 or over
+    //You qualify for the discount!
+    //You do not qualify for the discount.
+    int age;
+    char gender;
 
-    cout << "Please enter a letter grade" << endl;
-    cin >> grade;
+    cout << "Please enter your age:" << endl;
+    cin >> age;
 
-    switch (grade) {
-        case 'A':
-            cout << "Great job!" << endl;
-            break;
-        case 'B':
-            cout << "Good job!" << endl;
-            break;
-        case 'C':
-            cout << "You can do better!" << endl;
-            break;
-        case 'D':
-            cout << "You are getting close to failing!" << endl;
-            break;
-        case 'F':
-            cout << "You are failing the course!" << endl;
-            break;
-        default:
-            cout << "You have entered an invalid grade. Try again" << endl;
+    cout << "Please enter your gender (M or F):" << endl;
+    cin >> gender;
+
+    if (age >= 60 && (gender == 'f' || gender == 'F')) {
+        cout << "You qualify for the discount!" << endl;
+    } else {
+        cout << "You do not qualify for the discount." << endl;
     }
-
 
     return 0;
 }
